@@ -1,0 +1,37 @@
+.chainsList {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
+
+.chainsList li {
+    list-style-type: none;
+    margin: 10px;
+}
+
+.chainsList li a {
+    text-decoration: none;
+    -webkit-background-clip: text  ;
+    background-clip: text ;
+    color: transparent ;
+    /* background-image: linear-gradient(to right,#1A5D1A, #82CD47, rgb(139, 240, 6)) ; */
+    background-image: linear-gradient(to right,gray, #1A5D1A, #82CD47) ;
+
+    font-size: 18px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2), -1px -1px 1px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+@media (max-width:500px){
+    .chainsList {
+        gap: 10px;
+    }
+    .chainsList li a{
+    font-size: 16px;
+
+
+    }
+}

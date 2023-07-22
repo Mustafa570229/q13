@@ -1,0 +1,28 @@
+.logo{
+    text-decoration: none;
+    font-size: 32px ;
+    margin-right: 50px;
+}
+.links{
+    font-size: 20px ;
+    font-weight: 800 ;
+   
+    transition: 0.5s ease  ;
+}
+.links a{
+    text-decoration: none;
+    -webkit-background-clip: text  ;
+    background-clip: text ;
+    color: transparent ;
+    background-image: linear-gradient(to right,#82CD47, #1A5D1A, #82CD47) ;
+    margin-right: 30px ;
+    transition: ease-in 0.3s;
+}
+.links a:hover{
+    transform: scale(0.9);
+}
+@media (max-width:1000px) {
+    .links a:hover{
+        transform: scale(1);
+    }
+}
