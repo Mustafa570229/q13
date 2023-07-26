@@ -1,5 +1,4 @@
 
-
 import ShowingData from "../component/ShowingData";
 
 export default async function Page(props) {
@@ -13,7 +12,14 @@ export default async function Page(props) {
   );
 };
 export async function getData() {
-  const res = await fetch('http://localhost:3001/api/mydata');
+  const res = await fetch('https://kyooadmin.vercel.app/api/mydata',
+  // {
+  //   next:{
+  //     revalidate :82400
+  //   }
+  // }
+  
+  );
 
   if (!res.ok) {
     throw new Error('Failed to fetch data');

@@ -37,7 +37,7 @@ const filtredData=await data.filter((el, index, self) => {
 }
 
 export async function getData() {
-    const res = await fetch('http://localhost:3001/api/mydata',
+    const res = await fetch('https://kyooadmin.vercel.app/api/mydata',
 
 {
   next:{
