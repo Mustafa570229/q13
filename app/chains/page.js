@@ -39,11 +39,7 @@ const filtredData=await data.filter((el, index, self) => {
 export async function getData() {
     const res = await fetch('https://kyooadmin.vercel.app/api/mydata',
 
-{
-  next:{
-    revalidate:86400  //count of seconds to refresh fetch new data
-  }
-}
+    { next: { revalidate: 10 } }
     );
     
     if (!res.ok) {

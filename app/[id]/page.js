@@ -13,11 +13,7 @@ export default async function Page(props) {
 };
 export async function getData() {
   const res = await fetch('https://kyooadmin.vercel.app/api/mydata',
-  // {
-  //   next:{
-  //     revalidate :82400
-  //   }
-  // }
+  { next: { revalidate: 10 } }
   
   );
 
