@@ -54,7 +54,7 @@ const ShowingData = ({ data }) => {
             viewBox="0 0 24 24"
             strokeWidth={1.5}
             stroke="currentColor"
-            style={{ width: '25px' }}
+            style={{ width: '29px'}}
           >
             <path strokeLinecap="round" strokeLinejoin="round" d="M18.75 19.5l-7.5-7.5 7.5-7.5m-6 15L5.25 12l7.5-7.5" />
           </svg>
@@ -65,7 +65,7 @@ const ShowingData = ({ data }) => {
             viewBox="0 0 24 24"
             strokeWidth={1.5}
             stroke="currentColor"
-            style={{ width: '25px' }}
+            style={{ width: '29px'}}
           >
             <path strokeLinecap="round" strokeLinejoin="round" d="M11.25 4.5l7.5 7.5-7.5 7.5m-6-15l7.5 7.5-7.5 7.5" />
           </svg>
