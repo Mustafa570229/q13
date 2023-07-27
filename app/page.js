@@ -9,12 +9,12 @@ export default function Home() {
   return (
     <>
      <Head>
-        <title>Kyoo</title>
+        <title>Why islam ☪!!</title>
         <meta name="description" content=" The series begins by addressing fundamental 
         questions that often arise in the minds of Muslims and non-Muslims alike.
          Questions such as Why am I a Muslim? and Is Islam the religion of truth? "/>
         <meta name="keywords" content="islam, muslims, koran ,muslim prayer,hadith,nikah,true faith,new order true faith
-        ,lgbt,antilgbt" />
+        ,lgbt,antilgbt,evolution in islam" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/iconIslam.svg" />
       </Head>

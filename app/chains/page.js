@@ -3,7 +3,7 @@ import Link from "next/link";
 export const metadata = {
   title: 'Chains and Series',
   description: 'The series begins by addressing fundamental questions that often arise in the minds of Muslims and non-Muslims alike.Questions such as Why am I a Muslim? and Is Islam the religion of truth?',
-  keywords :["islam, muslims, koran ,muslim prayer,hadith,nikah"],
+  keywords :["islam, muslims, koran ,muslim prayer,hadith,nikah,evolution in islam"],
   icons: {
     icon: '/iconIslam.svg',
   }
