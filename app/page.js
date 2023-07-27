@@ -2,22 +2,19 @@
 import styles from "@/app/page.module.css"
 import Link from 'next/link'
 import Image from 'next/image';
-import Head from "next/head";
-
+export const metadata = {
+  title: 'Why islam ☪!!',
+  description: 'The series begins by addressing fundamental questions that often arise in the minds of Muslims and non-Muslims alike.Questions such as Why am I a Muslim? and Is Islam the religion of truth?',
+  keywords :["islam, muslims, koran ,muslim prayer,hadith,nikah,evolution in islam"],
+  icons: {
+    icon: '/iconIslam.svg',
+  }
+}
 
 export default function Home() {
   return (
     <>
-     <Head>
-        <title>Why islam ☪!!</title>
-        <meta name="description" content=" The series begins by addressing fundamental 
-        questions that often arise in the minds of Muslims and non-Muslims alike.
-         Questions such as Why am I a Muslim? and Is Islam the religion of truth? "/>
-        <meta name="keywords" content="islam, muslims, koran ,muslim prayer,hadith,nikah,true faith,new order true faith
-        ,lgbt,antilgbt,evolution in islam" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/iconIslam.svg" />
-      </Head>
+
       <main className={styles.main}>
         <h1>Building the Foundations of Faith</h1>
         <p>
