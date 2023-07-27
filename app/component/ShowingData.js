@@ -5,7 +5,7 @@ import styles from '@/app/component/ShowingData.module.css';
 
 const ShowingData = ({ data }) => {
   const [selectedItemId, setSelectedItemId] = useState('');
-  const [open, setOpen] = useState(true);
+  const [open, setOpen] = useState(false);
   const listRef = useRef(null);
 
   const handleItemClick = (itemId) => {
