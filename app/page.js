@@ -13,7 +13,8 @@ export default function Home() {
         <meta name="description" content=" The series begins by addressing fundamental 
         questions that often arise in the minds of Muslims and non-Muslims alike.
          Questions such as Why am I a Muslim? and Is Islam the religion of truth? "/>
-        <meta name="keywords" content="islam, muslim, keyword3" />
+        <meta name="keywords" content="islam, muslims, koran ,muslim prayer,hadith,nikah,true faith,new order true faith
+        ,lgbt,antilgbt" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/iconIslam.svg" />
       </Head>
@@ -33,7 +34,7 @@ export default function Home() {
         <div >
           <Image src="https://www.cars2charities.org/images/causes/Faith/4.FAITH-in-colorful-block-letters-held-in-many-hands.jpg"
             className={styles.handleImg}
-            alt="My Image"
+            alt="muslims, koran ,muslim prayer,hadith,nikah"
             layout="responsive"
             width="500"
             height="500"
@@ -52,7 +53,7 @@ export default function Home() {
 <div className={styles.FlexImages}>
 <Image src="https://trickbd.com/wp-content/uploads/2019/10/08/20191008_143404.jpg"
             className={styles.handleImg}
-            alt="My Image"
+            alt="muslims, koran ,muslim prayer,hadith,nikah"
             layout="responsive"
             width="500"
             height="500"
@@ -60,7 +61,7 @@ export default function Home() {
             objectPosition="center" />
         <Image src="http://www.studiolum.com/wang/persian/desert/001.jpg"
             className={styles.handleImg}
-            alt="My Image"
+            alt="muslims, koran ,muslim prayer,hadith,nikah"
             layout="responsive"
             width="500"
             height="500"
@@ -78,7 +79,7 @@ Through the journey of certainty, we aim to replace shaky beliefs with unwaverin
 <div>
 <Image src="https://pbs.twimg.com/media/EkKDDzTXkAgADo1?format=jpg&name=medium"
             className={styles.handleImg}
-            alt="My Image"
+            alt="muslims, koran ,muslim prayer,hadith,nikah"
             layout="responsive"
             width="500"
             height="500"
@@ -106,7 +107,7 @@ Every doubt we encounter becomes an opportunity to deepen our understanding and 
 <div>
 <Image src="https://www.brookings.edu/wp-content/uploads/2016/06/koran_verses001.jpg?w=1200&amp;h=630&amp;crop=1"
             className={styles.handleImg}
-            alt="My Image"
+            alt="muslims, koran ,muslim prayer,hadith,nikah"
             layout="responsive"
             width="500"
             height="500"
@@ -132,7 +133,7 @@ In addition to addressing our questions, the series prompts us to reflect on the
 <div className={styles.FlexImages}>
 <Image src="https://pbs.twimg.com/media/FN0d9xJaQAcTnXh?format=jpg&name=900x900"
             className={styles.handleImg}
-            alt="My Image"
+            alt="muslims, koran ,muslim prayer,hadith,nikah"
             layout="responsive"
             width="500"
             height="500"
@@ -141,7 +142,7 @@ In addition to addressing our questions, the series prompts us to reflect on the
 
             <Image src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/rmoccxx5bvnjl4muufrs.jpg"
             className={styles.handleImg}
-            alt="My Image"
+            alt="muslims, koran ,muslim prayer,hadith,nikah"
             layout="responsive"
             width="500"
             height="500"

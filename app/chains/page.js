@@ -1,10 +1,9 @@
 import styles from "@/app/ChainsList.module.css"
 import Link from "next/link";
-import Head from "next/head";
 export const metadata = {
   title: 'Chains and Series',
   description: 'The series begins by addressing fundamental questions that often arise in the minds of Muslims and non-Muslims alike.Questions such as Why am I a Muslim? and Is Islam the religion of truth?',
-  keywords :["islam, muslim, keyword3"],
+  keywords :["islam, muslims, koran ,muslim prayer,hadith,nikah"],
   icons: {
     icon: '/iconIslam.svg',
   }
