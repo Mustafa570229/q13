@@ -5,6 +5,6 @@ export default function robots() {
         allow: '/',
         disallow: '/private/',
       },
-      sitemap: 'https://kyooadmin.vercel.app/sitemap.xml',
+      sitemap: 'https://kyoo.fun/sitemap.xml',
     }
   }
