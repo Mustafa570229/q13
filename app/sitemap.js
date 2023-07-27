@@ -1,11 +1,11 @@
 export default function sitemap() {
   return [
     {
-      url: 'https://kyooadmin.vercel.app/chains',
+      url: 'https://kyoo.fun/chains',
       lastModified: new Date(),
     },
     {
-      url: 'https://kyooadmin.vercel.app/The-journey-of-certainty',
+      url: 'https://kyoo.fun/The-journey-of-certainty',
       lastModified: new Date(),
     },
  
