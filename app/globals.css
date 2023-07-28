@@ -26,11 +26,6 @@ body{
 .nav-link {
     font-size: 20px !important;
     font-weight: 800 !important;
-    /* -webkit-background-clip: text !important;
-    background-clip: text !important;
-    color: transparent !important;
-    background-image: linear-gradient(to right,#1A5D1A, #82CD47, rgb(139, 240, 6)) !important;
-    margin-right: 20px !important; */
     transition: 0.5s ease !important ;
 
 

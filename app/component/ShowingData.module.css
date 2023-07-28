@@ -49,6 +49,7 @@
     right: 0px;
     top: 64px;
     color: #fff;
+    outline: none;
 }
 
 .list ul {
@@ -121,7 +122,7 @@
     color: #1A5D1A !important;
     border: none !important;
     position: fixed;
-    right: 310px;
+    right: 300px;
     z-index: 444;
     top: 300px;
 }
@@ -229,13 +230,14 @@
     }
 
     .btn2 {
-
-        left: 0px;
+      
+        position: fixed;
         z-index: 444;
         top: 300px;
+        right:340px
     }
 }
 
-@media (max-width: 1111px) and (min-width: 500px) {
+/* @media (max-width: 1111px) and (min-width: 500px) {
 
-}
+} */
