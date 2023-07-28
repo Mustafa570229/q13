@@ -3,7 +3,7 @@ import ShowingData from "../component/ShowingData";
 
 
 export const metadata = {
-  title: 'Read more in Kyoo',
+  title: 'Read ore in Kyoo',
   description: 'In a world filled with questions and doubts, it is essential to seek answers that can strengthen our faith and provide us with certainty.',
   keywords :["islam, muslims, koran ,muslim prayer,hadith,nikah,evolution in islam"],
   icons: {
