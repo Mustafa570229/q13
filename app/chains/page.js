@@ -40,6 +40,7 @@ export default async function chains() {
         ))}
       </div>
       <div className={styles.headChains}>
+        <h1></h1>
         Welcome to our website! Explore our diverse range of content and resources,
         and enjoy a seamless browsing experience. Looking for information about Islam?
         We've got you covered! Discover everything about Islam and its principles,

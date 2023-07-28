@@ -1,8 +1,11 @@
 .chainsList {
-    padding: 20px;
+    margin: 20px 80px;
+    padding:20px 10px;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    border-bottom: 2px solid #82CD47;
+    border-top: 2px solid #82CD47;
 }
 
 .chainsList li {
@@ -25,9 +28,8 @@
 
 .headChains {
     color: grey;
-    font-size: 18px;
+    font-size: 22px;
     padding:  20px 80px;
-    font-weight: 600;
     text-align: center;
 }
 
@@ -46,4 +48,14 @@
         font-weight: 600;
         text-align: center;
     }
+    .chainsList {
+        margin: 0px 0px;
+        padding:20px 0px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        border-bottom: 2px solid #82CD47;
+        border-top: 2px solid #82CD47;
+    }
+    
 }
