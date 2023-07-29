@@ -14,10 +14,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-
-      <body className="">
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8531563006408715"
+      <head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8531563006408715"
           crossorigin="anonymous"></script>
+      </head>
+      <body className="">
         <MainNav />
         <div>{children}</div>
       </body>
