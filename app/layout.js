@@ -17,17 +17,6 @@ export default function RootLayout({ children }) {
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8531563006408715"
           crossorigin="anonymous"></script>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8531563006408715"
-          crossorigin="anonymous"></script>
-        <ins class="adsbygoogle"
-          style="display:block; text-align:center;"
-          data-ad-layout="in-article"
-          data-ad-format="fluid"
-          data-ad-client="ca-pub-8531563006408715"
-          data-ad-slot="1978057070"></ins>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({ });
-        </script>
       </head>
       <body className="">
         <MainNav />
