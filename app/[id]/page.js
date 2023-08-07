@@ -1,8 +1,10 @@
-
 import ShowingData from "../component/ShowingData";
+
+
 
 export async function generateMetadata(props) {
   const data = await getData();
+
   const filteredData = await data?.filter(el => el.newCollection.replace(/\s/g, "-").toLowerCase() ===
     props.params.id.toLowerCase())
   return {
